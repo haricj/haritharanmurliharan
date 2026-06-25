@@ -1,6 +1,6 @@
 # Hi there, I'm Haritharan Murli Haran 👋
 
-### Data Analyst | Power BI Developer | Data Engineer | Azure Enthusiast
+### Data Analyst | Power BI Developer | Data Engineer
 
 Transforming raw data into meaningful insights through analytics, automation, and cloud technologies.
 
